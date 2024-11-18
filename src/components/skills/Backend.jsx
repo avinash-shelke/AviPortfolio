@@ -55,7 +55,7 @@ const Backend = () => {
                     <i className="bx bx-badge-check"></i>
                     
                     <div>
-                        <h3 className="skills__name">Firebase</h3>
+                        <h3 className="skills__name">MongoDB</h3>
                         <span className="skills__level">Intermediate</span>
                     </div>
                 </div>

@@ -25,7 +25,7 @@ const Footer = () => {
 
         <div className="footer__social">
           <a
-            href="https://www.facebook.com"
+            href="https://www.facebook.comhttps://www.facebook.com/avinash.shelke.1806253/"
             className="footer__social-icon"
             target="_blank"
           >
@@ -33,7 +33,7 @@ const Footer = () => {
           </a>
 
           <a
-            href="https://www.instagram.com"
+            href="https://www.instagram.com/avinashelke.30"
             className="footer__social-icon"
             target="_blank"
           >
@@ -41,7 +41,7 @@ const Footer = () => {
           </a>
 
           <a
-            href="https://www.twitter.com"
+            href="https://x.com/Avinash99862131"
             className="footer__social-icon"
             target="_blank"
           >
