@@ -28,7 +28,7 @@ const Mlskill = () => {
             <i className="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills__name">Jupyter Notebook</h3>
+              <h3 className="skills__name">Tensorflow</h3>
               <span className="skills__level">Intermediate</span>
             </div>
           </div>
@@ -38,7 +38,7 @@ const Mlskill = () => {
             <i className="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills__name">Tensorflow</h3>
+              <h3 className="skills__name">Jupyter Notebook</h3>
               <span className="skills__level">Intermediate</span>
             </div>
           </div>
