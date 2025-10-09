@@ -56,7 +56,7 @@
 
 /*=============== BREAKPOINTS ===============*/
 /* For medium devices */
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 700px) {
     .header{
         top: initial;
         bottom: 0;

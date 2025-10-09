@@ -25,11 +25,11 @@ const Footer = () => {
 
         <div className="footer__social">
           <a
-            href="https://www.facebook.comhttps://www.facebook.com/avinash.shelke.1806253/"
+            href="https://www.linkedin.com/in/avinash-shelke8"
             className="footer__social-icon"
             target="_blank"
           >
-            <i className="bx bxl-facebook"></i>
+            <i className="bx bxl-linkedin"></i>
           </a>
 
           <a
